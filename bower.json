@@ -22,7 +22,6 @@
   },
   "main": [
     "owl-carousel/owl.carousel.css",
-    "owl-carousel/owl.theme.css",
     "owl-carousel/owl.carousel.js"
   ]
 }
